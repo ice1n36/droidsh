@@ -1,0 +1,2 @@
+platform select remote-android
+platform connect connect://localhost:3636
